@@ -1,4 +1,4 @@
-# AI-V1.0
+# AI (assisten)
 
 membuat AI atau kecerdasa buatan menggunakan python3 
 
